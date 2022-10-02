@@ -1,5 +1,7 @@
 package com.navarroz.frame;
-
+/**
+*@Autor Manuel
+*/
 import java.awt.Font;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
